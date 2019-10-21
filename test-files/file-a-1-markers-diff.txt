@@ -1,0 +1,14 @@
+this
+does
+not
+count:
+/*BEGIN*/
+this
+  is
+a
+test
+of
+thisX
+thing!
+/*END*/
+nor this

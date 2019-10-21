@@ -1,0 +1,9 @@
+this
+  is
+a
+/*END*/
+test
+/*BEGIN*/
+of
+this
+thing!

@@ -1,0 +1,17 @@
+something
+else
+else
+else
+else
+else
+here
+/*BEGIN*/
+this
+  is
+a
+test
+of
+this
+thing!
+/*END*/
+nor this too
